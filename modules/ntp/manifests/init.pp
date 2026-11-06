@@ -15,4 +15,3 @@ class ntp {
   }
 }
 
-include ntp
